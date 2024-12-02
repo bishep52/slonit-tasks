@@ -70,3 +70,5 @@ git init
 git add .
 git commit -m "first commit"
 ```
+
+![Конец](https://i.ytimg.com/vi/6EXB2Of1zLY/maxresdefault.jpg)
