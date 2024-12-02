@@ -55,3 +55,11 @@
 - `git remote show <remote>` получить больше информации об одном из удалённых репозиториев.
 - `git remote rename` для переименования удалённого репозитория.
 - `git remote rm` для удаления удалённого репозитория.
+
+---
+## Пример работы с Git
+```bash
+git init
+git add .
+git commit -m "first commit"
+```
