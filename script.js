@@ -2,6 +2,8 @@ const btn = document.getElementById("show-button");
 const list = document.getElementById("result");
 const getRandomNumber = () => Math.floor(Math.random() * 100 + 1);
 
+list.textContent = "Здесь будет игра компьютеров между собой";
+
 btn.addEventListener("click", () => {
   list.textContent = "";
 
