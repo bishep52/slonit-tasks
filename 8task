@@ -1,0 +1,11 @@
+function calcTotalAmount(arr) {
+  let total = 0;
+
+  arr.forEach((amount) => (total += amount));
+
+  return total;
+}
+
+const customers = [10000, 20000, 30000];
+
+console.log(calcTotalAmount(customers));
